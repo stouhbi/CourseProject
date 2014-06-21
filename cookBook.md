@@ -1,10 +1,10 @@
 ##Cook Book
-===========================================================
+
 
 The Output Data for the course project represent average of mean and standard features for each subject for each activity
 
 #each record provides : 
------------------------------
+
 
 1. subject_id (number): identifier of the subject who carried out the experiment, it is between 1 and 30
 2. activity (character) : The activity label that the subject performed (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
@@ -81,5 +81,5 @@ List of estimated variables :
 - fBodyBodyGyroJerkMag.std...avg
 
 #Notes: 
--------------
+
 - estimated variable are bounded within [-1,1].
