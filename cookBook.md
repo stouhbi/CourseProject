@@ -1,9 +1,9 @@
-##Cook Book
+#Cook Book
 
 
 The Output Data for the course project represent average of mean and standard features for each subject for each activity
 
-#each record provides : 
+each record provides : 
 
 
 1. subject_id (number): identifier of the subject who carried out the experiment, it is between 1 and 30
@@ -79,7 +79,8 @@ List of estimated variables :
 - fBodyBodyAccJerkMag.std...avg
 - fBodyBodyGyroMag.std...avg
 - fBodyBodyGyroJerkMag.std...avg
+======================================
 
-#Notes: 
+###Notes: 
 
 - estimated variable are bounded within [-1,1].
