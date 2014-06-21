@@ -79,6 +79,8 @@ List of estimated variables :
 - fBodyBodyAccJerkMag.std...avg
 - fBodyBodyGyroMag.std...avg
 - fBodyBodyGyroJerkMag.std...avg
+
+
 ======================================
 
 ###Notes: 
